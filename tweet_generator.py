@@ -1,6 +1,6 @@
 import openai
 
-# openai.api_key = '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'
+# openai.api_key = 'sk-xxx'
 
 
 def generate_tweets(prompt, num_tweets):

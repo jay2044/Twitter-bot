@@ -18,7 +18,7 @@ with open("tweets.json") as f:
 
 def setup_twitter():
     # # Set the path to the GeckoDriver binary in the PATH environment variable
-    # geckodriver_path = "/home/manthizay/geckodriver"  # Replace with the correct path
+    # geckodriver_path = "/home/xxx/geckodriver"  # Replace with the correct path
     # os.environ["PATH"] = f"{os.environ['PATH']}:{os.path.dirname(geckodriver_path)}"
 
     # # Set the path to the Firefox binary using an environment variable
